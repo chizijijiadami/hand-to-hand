@@ -1,4 +1,4 @@
-# website
+# hand-to-hand
 
 ## Project setup
 ```
