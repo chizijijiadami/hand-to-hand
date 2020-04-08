@@ -1,4 +1,5 @@
 # hand-to-hand
+名字本来是website，为了后续统一改成了hand-to-hand，关于yarn和npm的命令，见文章
 
 ## Project setup
 ```
